@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="377e70a2-90cc-4ba2-8dfd-906e40db7d9d" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2G12OSdht42mRm1x8PIAdWTo9ji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third.Main" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="third.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forth.Main" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.Main" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.demo1" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377e70a2-90cc-4ba2-8dfd-906e40db7d9d" name="默认更改列表" comment="" />
+      <created>1665541737491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665541737491</updated>
+      <workItem from="1665541740663" duration="3982000" />
+      <workItem from="1665628630028" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom" timestamp="1665565158515">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
+    <state width="1238" height="187" key="GridCell.Tab.0.center" timestamp="1665565158515">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
+    <state width="1238" height="187" key="GridCell.Tab.0.left" timestamp="1665565158515">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
+    <state width="1238" height="187" key="GridCell.Tab.0.right" timestamp="1665565158515">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="187" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
+    <state x="340" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1665628631746">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="340" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.752@0.0.1280.752" timestamp="1665628631746" />
+  </component>
+</project>
