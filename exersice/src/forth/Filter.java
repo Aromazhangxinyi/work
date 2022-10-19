@@ -9,5 +9,5 @@ public abstract class Filter {
         this.input = input;
         this.output = output;
     }
-    protected abstract void transform() throws IOException;
+    public abstract void transform() throws IOException;
 }

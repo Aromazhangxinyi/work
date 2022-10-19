@@ -5,7 +5,7 @@ import java.io.*;
 public class Pipe {
     private Scanner pipeReader;
     private PrintWriter pipeWriter;
-    Pipe(){
+    public Pipe(){
         PipedWriter pipedWriter = new PipedWriter();
         PipedReader pipedReader = new PipedReader();
         try {

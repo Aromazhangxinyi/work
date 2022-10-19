@@ -26,7 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="third.Main" />
       <module name="exersice" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.Main2" />
       <module name="exersice" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.demo1" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third.Main3" />
       <module name="exersice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tixi.*" />
+          <option name="PATTERN" value="third.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +79,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forth.Main4" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first.demo1" />
+      <module name="exersice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="exersice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.demo1" />
       </list>
     </recent_temporary>
@@ -100,6 +134,7 @@
       <updated>1665541737491</updated>
       <workItem from="1665541740663" duration="3982000" />
       <workItem from="1665628630028" duration="964000" />
+      <workItem from="1666083216953" duration="3823000" />
     </task>
     <servers />
   </component>
@@ -107,22 +142,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="187" key="GridCell.Tab.0.bottom" timestamp="1665565158515">
+    <state x="345" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1666084408730">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
-    <state width="1238" height="187" key="GridCell.Tab.0.center" timestamp="1665565158515">
+    <state x="345" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.752@0.0.1280.752" timestamp="1666084408730" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom" timestamp="1666087042421">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state width="1238" height="187" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
-    <state width="1238" height="187" key="GridCell.Tab.0.left" timestamp="1665565158515">
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1666087042421" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center" timestamp="1666087042420">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state width="1238" height="187" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
-    <state width="1238" height="187" key="GridCell.Tab.0.right" timestamp="1665565158515">
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1666087042420" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left" timestamp="1666087042420">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
-    <state width="1238" height="187" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1665565158515" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1666087042420" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right" timestamp="1666087042421">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1666087042421" />
     <state x="340" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1665628631746">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
